@@ -1,0 +1,91 @@
+ASLN - Atomic Super Layer Network License
+Version 1.0, 25 April 2025
+
+NOT FOR COMMERCIAL USE.
+MIT License
+
+Copyright (c) 2025 Atomic Community
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+
+This software is provided for educational and personal cybersecurity purposes only.
+
+================================================================================
+
+✅ YOU MAY:
+
+1. Use this software for personal cybersecurity
+2. Use this software for educational purposes
+3. Use this software for security research
+4. Modify and study the source code
+5. Share the software with proper attribution
+6. Use this software for open source non-commercial projects
+
+================================================================================
+
+❌ YOU MAY NOT:
+
+1. Sell this software or any part of it
+2. Use this software in commercial products
+3. Integrate this software into paid services
+4. Remove or alter copyright notices
+5. Claim this software as your own
+6. Use this software for illegal activities
+7. Abuse the APIs (NASA, SpaceX, ESA, CNSA, Roscosmos) used by this software
+
+================================================================================
+
+⚠️ COMMERCIAL USE PENALTY:
+
+Commercial use without permission will result in:
+1. Report to the respective space agencies (NASA, SpaceX, ESA, CNSA, Roscosmos)
+2. Report to GitHub for Terms of Service violation
+3. Legal action if damages are proven
+
+================================================================================
+
+ FOR COMMERCIAL LICENSING:
+
+Contact the Atomic Super Layer Network Community for commercial licensing options.
+
+================================================================================
+
+ THIRD-PARTY NOTICES:
+
+This software uses:
+- NASA API (https://api.nasa.gov) - Subject to NASA's terms
+- SpaceX API (https://api.spacexdata.com) - Subject to SpaceX's terms
+- ESA Public Data - Subject to ESA's terms
+- CNSA Public Data - For educational use only
+- Roscosmos Public Data - For educational use only
+- WireGuard - Subject to WireGuard's license
+- OpenSSL - Subject to OpenSSL's license
+- libcurl - Subject to libcurl's license
+- libjpeg - Subject to libjpeg's license
+- libpng - Subject to libpng's license
+
+================================================================================
+
+Powered by Atomic Community
+
+"Connect from Earth. Appear from the Stars."
+
+================================================================================
+
