@@ -117,7 +117,6 @@ This tool is designed for:
 
 - **Atomic Super Layer Network Community**
 - **Zera** - Project Founder & Lead Developer
-- **DeepSeek** - AI Architecture Consultant & Code Optimization
 - **Wyoo-Setup file system
 - **ASLN Contributors**
 ---
@@ -168,9 +167,6 @@ Space Agencies:
 - ESA (European Space Agency)
 - CNSA (China National Space Administration)
 - Roscosmos (Russian Space Agency)
-
-(Hangzhou DeepSeek Artificial Intelligence Co., Ltd.)
--Deepseek "Co-Developer"
 
 **Powered by Atomic Community**
 
