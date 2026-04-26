@@ -15,8 +15,7 @@ ASLN is a multi-layer security tool that adds dynamic key rotation and location 
 
 ## Installation
 
-```bash
-git clone https://github.com/YOUR_USERNAME/asln.git
+git clone https://github.com/ZeraEnwyoo/asln.git
 cd asln
 make
 sudo make install
@@ -155,6 +154,18 @@ This tool uses your public APIs for **educational purposes only**. It is designe
 - Privacy protection
 
 No API keys are being sold. No commercial use is occurring. Rate limits are respected through caching.
+
+## API Rate Limits
+
+| Agency | Free Tier | Cache Duration |
+|--------|-----------|----------------|
+| NASA | 1000 requests/hour | 1 hour |
+| SpaceX | No limit | 5 minutes |
+| ESA | Public RSS | 1 hour |
+| CNSA | Limited | Special events only |
+| Roscosmos | Limited | Special events only |
+
+ASLN implements aggressive caching to respect these limits.
 
 If you have concerns, please contact the ASLN Community.
 
